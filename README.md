@@ -159,9 +159,3 @@ Use the same logo, colors, and typography throughout the application.
 The Gestalt principles were successfully applied to mobile and web layouts. Appropriate UI elements and design patterns were incorporated into the interface. Interaction behaviors and usability principles were implemented to improve user experience. A brand logo was successfully created using Canva and integrated into the final layouts.
 
 
-Stars
-0 stars
-Watchers
-0 watching
-Forks
-0 forks
