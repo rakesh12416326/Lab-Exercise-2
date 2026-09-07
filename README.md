@@ -1,8 +1,8 @@
-# Lab-Exercise-2
+
 ## Lab-Exercise-2
 ## NAME : RAKESH S
 ## REG NO: 212225240114
-Date : 27-07-2026
+## Date : 27-07-2026
 ```
 Aim:
 To apply Gestalt principles in mobile and web layouts, incorporate suitable UI elements and design patterns, develop interaction behaviors based on usability principles, and create a brand logo using Canva according to styling and branding guidelines.
